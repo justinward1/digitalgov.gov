@@ -5,8 +5,8 @@
 slug: eight-principles-mobile-friendliness
 date: 2019-12-19 14:000:00 -0500
 title: "Eight Principles of Mobile-Friendliness"
-deck: "Following these principles will help you make your site more usable and user-friendly."
-summary: "Following these principles will help you make your site more usable and user-friendly."
+deck: "Following these principles will help make your site more usable and user-friendly."
+summary: "Following these principles will help make your site more usable and user-friendly."
 
 topics:
   - product-management
